@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vitydria, Full Stack developer with 3+ years of experience using JS and Python
-- 👀 I’m interested in progamming
-- 🌱 Learning Web Development
+- 👀 I’m interested in progamming, solving problems, improve my skills 🥇💻
+- 🌱 Learning Cloud development
 - 📫 How to reach me: colmenaresvictor2797@gmail.com
 
 <!---
